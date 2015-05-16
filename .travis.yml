@@ -1,5 +1,8 @@
 language: ruby
 rvm:
-  - 2.2.0
+- 2.2.0
 sudo: false
 script: bundle exec rake deploy
+env:
+  global:
+    secure: LLxLjrh1N7v69eij2Te0EVoQ+c2SJx+iTjGr/Vlc4hjg5o/S09GK1+uEDGGHscTAA0rN9WGebCQspUoo2Yx0j/bQi1Osphy4Ch7vcTuKtd7A/S5pF57fcQCjTDXBevEbqlGeM/tTiUEyKooO1x5wSF2M956HfiZudxmXE2M3ayY=
