@@ -3,7 +3,7 @@ layout: default
 title: Jekyll-Asciidoc Quickstart
 description: A forkable blog-ready Jekyll site using Asciidoc
 documentationExpanded: false
-postsExpanded: true
+postsExpanded: false
 ---
 
 = Congratulations!
